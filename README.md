@@ -4,8 +4,6 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sevilsariyeva&label=Profile%20views&color=0e75b6&style=flat" alt="sevilsariyeva" /> </p>
 
-- 🌱 I’m currently learning **Java, Spring BOOT**
-
 - 📫 How to reach me **sevilsariyeva00@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
