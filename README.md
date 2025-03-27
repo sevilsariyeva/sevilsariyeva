@@ -18,4 +18,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sevilsariyeva&show_icons=true&locale=en" alt="sevilsariyeva" /></p>
 
+https://github-profile-trophy.vercel.app/?username=sevilsariyevadir&rank=S,AAA
 
